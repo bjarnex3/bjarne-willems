@@ -1,0 +1,24 @@
+C:\Documenten van Brent\Jaar 3\Software engineering\Examen\BlackjackSE\BlackjackSE\bin\Debug\BlackjackSE.exe.config
+C:\Documenten van Brent\Jaar 3\Software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.csprojResolveAssemblyReference.cache
+C:\Documenten van Brent\Jaar 3\Software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.Blackjack.resources
+C:\Documenten van Brent\Jaar 3\Software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.KaartView.resources
+C:\Documenten van Brent\Jaar 3\Software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.KnoppenView.resources
+C:\Documenten van Brent\Jaar 3\Software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.Properties.Resources.resources
+C:\Documenten van Brent\Jaar 3\Software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.ScoreBordView.resources
+C:\Documenten van Brent\Jaar 3\Software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.csproj.GenerateResource.Cache
+C:\Documenten van Brent\Jaar 3\Software engineering\Examen\BlackjackSE\BlackjackSE\bin\Debug\BlackjackSE.exe
+C:\Documenten van Brent\Jaar 3\Software engineering\Examen\BlackjackSE\BlackjackSE\bin\Debug\BlackjackSE.pdb
+C:\Documenten van Brent\Jaar 3\Software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.exe
+C:\Documenten van Brent\Jaar 3\Software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.pdb
+D:\school\2e jaar\software engineering\Examen\BlackjackSE\BlackjackSE\bin\Debug\BlackjackSE.exe.config
+D:\school\2e jaar\software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.exe
+D:\school\2e jaar\software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.pdb
+D:\school\2e jaar\software engineering\Examen\BlackjackSE\BlackjackSE\bin\Debug\BlackjackSE.exe
+D:\school\2e jaar\software engineering\Examen\BlackjackSE\BlackjackSE\bin\Debug\BlackjackSE.pdb
+D:\school\2e jaar\software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.csprojResolveAssemblyReference.cache
+D:\school\2e jaar\software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.Blackjack.resources
+D:\school\2e jaar\software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.KaartView.resources
+D:\school\2e jaar\software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.KnoppenView.resources
+D:\school\2e jaar\software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.Properties.Resources.resources
+D:\school\2e jaar\software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.ScoreBordView.resources
+D:\school\2e jaar\software engineering\Examen\BlackjackSE\BlackjackSE\obj\Debug\BlackjackSE.csproj.GenerateResource.Cache
